@@ -1,0 +1,83 @@
+[
+    {
+      "id": "1",
+      "index": 0,
+      "price": 10.99,
+      "picture": "https://via.placeholder.com/500",
+      "name": "T-Shirt 1",
+      "gender": "Male"
+    },
+    {
+      "id": "2",
+      "index": 1,
+      "price": 19.99,
+      "picture": "https://via.placeholder.com/500",
+      "name": "T-Shirt 2",
+      "gender": "Female"
+    },
+    {
+      "id": "3",
+      "index": 2,
+      "price": 5.99,
+      "picture": "https://via.placeholder.com/500",
+      "name": "T-Shirt 3",
+      "gender": "Male"
+    },
+    {
+      "id": "4",
+      "index": 3,
+      "price": 7.99,
+      "picture": "https://via.placeholder.com/500",
+      "name": "T-Shirt 4",
+      "gender": "Female"
+    },
+    {
+      "id": "5",
+      "index": 4,
+      "price": 12.99,
+      "picture": "https://via.placeholder.com/500",
+      "name": "T-Shirt 5",
+      "gender": "Male"
+    },
+    {
+      "id": "6",
+      "index": 5,
+      "price": 8.99,
+      "picture": "https://via.placeholder.com/500",
+      "name": "T-Shirt 6",
+      "gender": "Female"
+    },
+    {
+      "id": "7",
+      "index": 6,
+      "price": 14.99,
+      "picture": "https://via.placeholder.com/500",
+      "name": "T-Shirt 7",
+      "gender": "Male"
+    },
+    {
+      "id": "8",
+      "index": 7,
+      "price": 9.99,
+      "picture": "https://via.placeholder.com/500",
+      "name": "T-Shirt 8",
+      "gender": "Female"
+    },
+    {
+      "id": "9",
+      "index": 8,
+      "price": 11.99,
+      "picture": "https://via.placeholder.com/500",
+      "name": "T-Shirt 9",
+      "gender": "Male"
+    },
+    {
+      "id": "10",
+      "index": 9,
+      "price": 6.99,
+      "picture": "https://via.placeholder.com/500",
+      "name": "T-Shirt 10",
+      "gender": "Female"
+    }
+  ]
+  
